@@ -17,3 +17,9 @@ Adding new components not taught during the demo and expanding knowledgeon how t
 
 ## Resources/Sites Used: 
 https://appinventor.mit.edu/ (overall application website)
+
+https://appinventor.mit.edu/explore/content/basic.html 
+
+http://ai2.appinventor.mit.edu/reference/blocks/  
+
+https://appinventor.mit.edu/explore/ai2/tutorials 
